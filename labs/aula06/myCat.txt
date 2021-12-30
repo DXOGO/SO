@@ -1,5 +1,0 @@
-myCat
-linha1
-
-linha 3
-x
